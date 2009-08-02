@@ -1,0 +1,32 @@
+## a sample input file
+## list of courses offered in Fall semester of 2009
+
+
+course_name,electronics,course_id,ECE231f,
+course_professor,OT,
+course_section,1,
+course_type,LEC,
+course_time,monday,_9_10,
+course_time,tuesday,_1_2,
+course_time,wednesday,_11_12,
+<
+
+couse_name,EM,course_id,ECE221f,
+course_professor,Chris,
+course_section,1,
+course_type,LEC,
+course_time,friday,_9_10,
+course_time,friday,_10_11,
+course_time,friday,_11_12,
+<
+
+course_name,electronics,course_id,ECE231f,
+course_professor,Genov,
+course_section,2,
+course_type,LEC,
+course_time,monday,_9_10,
+course_time,tuesday,_1_2,
+course_time,wednesday,_11_12,
+<
+
+
