@@ -1,0 +1,54 @@
+/**
+ * @file
+ * @author shervin.mehryar@gmail.com
+ * @version 1.0
+ *
+ * @section LICENSE
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License as
+ * published by the Free Software Foundation; either version 2 of
+ * the License, or (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Please be use
+ * caution when used and always DOUBLE CHECK RESULTS!!!!!
+ *
+ * @section DESCRIPTION
+ *
+ * Automated course planner that given all courses, automatically finds
+ * a non-conflicting match. It also alows for manual selection of
+ * courses by specifying particular sections, and reports any conflicts.
+ *
+ *
+ *
+ * @section INSTRUCTIONS
+ *
+ * As input, provide a file which includs a listing of all courses in 
+ * one semester. See the sample input file, fall2009.txt. If such a file
+ * not accessible, inside the Data directoroy, there is Lex/Yacc parser
+ * that can create a suitable input file from a .cvs file (also a sample 
+ * .cvs can be found). To do so, run the following (in Linux):
+ * 
+ *	...\course-planner\Data$ make
+ *      ...\course-planner\Data$ ./parser < example.cvs   > output.txt
+ *
+ * Copy the output.txt (which will be the input to planner) to the directory
+ * of course-planner, then run the program on it as follows:
+ * 
+ *	..\course-planner$ make clean
+ *      ..\course-planner$ make
+ *      ..\course-planner$ ./planner output.txt
+ *
+ * From this point on, a menu will guide you through actions that can be
+ * taken. Options are well explained as much as possible, and after while
+ * should become easy to use. Should you have any concerns, questions, or
+ * suggestions, or to report bugs, please contact the author.
+ *
+ */
+
+
+
+
+
