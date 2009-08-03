@@ -1,0 +1,156 @@
+## "NAME","SECTION","DAY","START","FINISH","PROF","Course Name"
+
+"ECE302H1F","LEC 01","Mon",14:00:00,15:00:00,"Lim, T.J.","Probability"
+"ECE302H1F","LEC 01","Wed",10:00:00,11:00:00,"Lim, T.J.",
+"ECE302H1F","LEC 01","Thu",09:00:00,10:00:00,"Lim, T.J.",
+
+
+
+"ECE302H1F","LEC 02","Wed",11:00:00,12:00:00,"Valaee, S.","Probability"
+"ECE302H1F","LEC 02","Tue",14:00:00,15:00:00,"Valaee, S.",
+"ECE302H1F","LEC 02","Thu",13:00:00,14:00:00,"Valaee, S.",
+
+"ECE315H1F","LEC 01","Mon",12:00:00,13:00:00,"Dawson, Francis","Switch_Mode"
+"ECE315H1F","LEC 01","Tue",14:00:00,15:00:00,"Dawson, Francis",
+"ECE315H1F","LEC 01","Wed",14:00:00,15:00:00,"Dawson, Francis",
+
+"ECE316H1F","LEC 01","Mon",10:00:00,11:00:00,"Sousa, Elvino","Communications"
+"ECE316H1F","LEC 01","Tue",13:00:00,14:00:00,"Sousa, Elvino",
+"ECE316H1F","LEC 01","Fri",13:00:00,14:00:00,"Sousa, Elvino",
+"ECE316H1F","LEC 02","Mon",14:00:00,15:00:00,"Adve, R.","Communications"
+"ECE316H1F","LEC 02","Wed",11:00:00,12:00:00,"Adve, R.",
+"ECE316H1F","LEC 02","Fri",12:00:00,13:00:00,"Adve, R.",
+"ECE320H1F","LEC 01","Mon",13:00:00,14:00:00,"Eleftheriades, G.","FieldsWaves"
+"ECE320H1F","LEC 01","Wed",09:00:00,10:00:00,"Eleftheriades, G.",
+"ECE320H1F","LEC 01","Thu",10:00:00,11:00:00,"Eleftheriades, G.",
+"ECE320H1F","LEC 02","Mon",10:00:00,11:00:00,"Hum, S","FieldsWaves"
+"ECE320H1F","LEC 02","Tue",13:00:00,14:00:00,"Hum, S",
+"ECE320H1F","LEC 02","Fri",13:00:00,14:00:00,"Hum, S",
+"ECE331H1F","LEC 01","Mon",11:00:00,12:00:00,"Sheikholeslami, A.","AnalogElec"
+"ECE331H1F","LEC 01","Fri",15:00:00,16:00:00,"Sheikholeslami, A.",
+"ECE331H1F","LEC 01","Fri",16:00:00,17:00:00,"Sheikholeslami, A.",
+"ECE334H1F","LEC 01","Mon",12:00:00,13:00:00,"Gulak, Glenn","DigitalElec"
+"ECE334H1F","LEC 01","Wed",14:00:00,15:00:00,"Gulak, Glenn",
+"ECE334H1F","LEC 01","Thu",15:00:00,16:00:00,"Gulak, Glenn",
+"ECE334H1F","LEC 02","Mon",16:00:00,17:00:00,"Phang, K","DigitalElec"
+"ECE334H1F","LEC 02","Thu",14:00:00,15:00:00,"Phang, K",
+"ECE334H1F","LEC 02","Wed",15:00:00,16:00:00,"Phang, K",
+
+"ECE335H1F","LEC 01","Mon",12:00:00,13:00:00,"Levi, O.","ElecDevices"
+"ECE335H1F","LEC 01","Tue",12:00:00,13:00:00,"Levi, O.",
+"ECE335H1F","LEC 01","Thu",14:00:00,15:00:00,"Levi, O.",
+
+"ECE335H1F","LEC 02","Mon",13:00:00,14:00:00,"Kherani, Nazir","ElecDevices"
+"ECE335H1F","LEC 02","Wed",13:00:00,14:00:00,"Kherani, Nazir",
+"ECE335H1F","LEC 02","Fri",13:00:00,14:00:00,"Kherani, Nazir",
+
+"ECE344H1F","LEC 01","Thu",11:00:00,12:00:00,"Gibson, C.","OperatingSystems"
+"ECE344H1F","LEC 01","Wed",13:00:00,14:00:00,"Gibson, C.",
+"ECE344H1F","LEC 01","Tue",14:00:00,15:00:00,"Gibson, C.",
+"ECE345H1F","LEC 01","Fri",12:00:00,13:00:00,"Veneris, A","Algorithms"
+"ECE345H1F","LEC 01","Tue",12:00:00,13:00:00,"Veneris, A",
+"ECE345H1F","LEC 01","Thu",12:00:00,13:00:00,"Veneris, A",
+"ECE345H1F","LEC 02","Tue",10:00:00,11:00:00,"Veneris, A","Algorithms"
+"ECE345H1F","LEC 02","Thu",10:00:00,11:00:00,"Veneris, A",
+"ECE345H1F","LEC 02","Fri",10:00:00,11:00:00,"Veneris, A",
+"ECE349H1F","LEC 01","Mon",14:00:00,15:00:00,"Lehn, Peter","Energy"
+"ECE349H1F","LEC 01","Tue",11:00:00,12:00:00,"Lehn, Peter",
+"ECE349H1F","LEC 01","Thu",11:00:00,12:00:00,"Lehn, Peter",
+"ECE352H1F","LEC 01","Wed",09:00:00,10:00:00,"Gulak, Glenn","CompOrg2"
+"ECE352H1F","LEC 01","Tue",10:00:00,11:00:00,"Gulak, Glenn",
+"ECE352H1F","LEC 01","Mon",09:00:00,10:00:00,"Gulak, Glenn",
+"ECE355H1F","LEC 01","Tue",09:00:00,10:00:00,"Khisti, Ashish","Unkown"
+"ECE355H1F","LEC 01","Fri",13:00:00,14:00:00,"Khisti, Ashish",
+"ECE355H1F","LEC 01","Thu",12:00:00,13:00:00,"Khisti, Ashish",
+
+"ECE359H1F","LEC 01","Mon",09:00:00,10:00:00,"Tate, Zeb","Unkown"
+"ECE359H1F","LEC 01","Wed",14:00:00,15:00:00,"Tate, Zeb",
+"ECE359H1F","LEC 01","Fri",11:00:00,12:00:00,"Tate, Zeb",
+
+"ECE360H1F","LEC 01","Tue",12:00:00,13:00:00,"Chan, Carusone.","Unknown"
+"ECE360H1F","LEC 01","Fri",15:00:00,16:00:00,"Chan, Carusone.",
+"ECE360H1F","LEC 01","Fri",16:00:00,17:00:00,"Chan, Carusone.",
+
+"ECE361H1F","LEC 01","Mon",11:00:00,12:00:00,"Valaee, S.","ComputerNetwork"
+"ECE361H1F","LEC 01","Wed",12:00:00,13:00:00,"Valaee, S.",
+"ECE361H1F","LEC 01","Fri",14:00:00,15:00:00,"Valaee, S.",
+
+"ECE410H1F","LEC 01","Tue",11:00:00,12:00:00,"Lacra, P.","ControlSystem"
+"ECE410H1F","LEC 01","Thu",09:00:00,10:00:00,"Lacra, P.",
+"ECE410H1F","LEC 01","Mon",10:00:00,11:00:00,"Lacra, P.",
+
+"ECE431H1F","LEC 01","Wed",09:00:00,10:00:00,"Plataniotis, K.","DSP"
+"ECE431H1F","LEC 01","Thu",10:00:00,11:00:00,"Plataniotis, K.",
+"ECE431H1F","LEC 01","Mon",12:00:00,13:00:00,"Plataniotis, K.",
+
+"ECE442H1F","LEC 01","Mon",09:00:00,10:00:00,"Jugessur, A.","MicroFabrication"
+"ECE442H1F","LEC 01","Wed",11:00:00,12:00:00,"Jugessur, A.",
+"ECE442H1F","LEC 01","Fri",11:00:00,12:00:00,"Jugessur, A.",
+
+"ECE445H1F","LEC 01","Tue",16:00:00,17:00:00,"Bardakjian, B.","NeuralBio"
+"ECE445H1F","LEC 01","Wed",12:00:00,13:00:00,"Bardakjian, B.",
+"ECE445H1F","LEC 01","Fri",14:00:00,15:00:00,"Bardakjian, B.",
+
+"ECE446H1F","LEC 01","Mon",12:00:00,13:00:00,"Wong, W.","SensoryComm"
+"ECE446H1F","LEC 01","Tue",11:00:00,12:00:00,"Wong, W.",
+"ECE446H1F","LEC 01","Thu",13:00:00,14:00:00,"Wong, W.",
+
+"ECE448H1F","LEC 01","Tue",13:00:00,14:00:00,"Truong, Kevin","BioComp"
+"ECE448H1F","LEC 01","Wed",09:00:00,10:00:00,"Truong, Kevin",
+"ECE448H1F","LEC 01","Fri",13:00:00,14:00:00,"Truong, Kevin",
+
+"ECE452H1F","LEC 01","Wed",13:00:00,14:00:00,"Chow, Paul","CompArch"
+"ECE452H1F","LEC 01","Mon",13:00:00,14:00:00,"Chow, Paul",
+"ECE452H1F","LEC 01","Fri",12:00:00,13:00:00,"Chow, Paul",
+
+"ECE452H1F","LEC 02","Mon",10:00:00,11:00:00,"Enright, Jerger","CompArch"
+"ECE452H1F","LEC 02","Wed",10:00:00,11:00:00,"Enright, Jerger",
+"ECE452H1F","LEC 02","Fri",10:00:00,11:00:00,"Enright, Jerger",
+
+"ECE454H1F","LEC 01","Tue",15:00:00,16:00:00,"Amza, C","SystemsProgramming"
+"ECE454H1F","LEC 01","Tue",16:00:00,17:00:00,"Amza, C",
+"ECE454H1F","LEC 01","Wed",14:00:00,15:00:00,"Amza, C",
+
+"ECE461H1F","LEC 01","Mon",12:00:00,13:00:00,"Liebeherr, Jorg","Internetworking"
+"ECE461H1F","LEC 01","Tue",09:00:00,10:00:00,"Liebeherr, Jorg",
+"ECE461H1F","LEC 01","Wed",16:00:00,17:00:00,"Liebeherr, Jorg",
+
+"ECE472H1F","LEC 01","Fri",09:00:00,10:00:00,"VanderKraats, R.","EngEco"
+"ECE472H1F","LEC 01","Wed",10:00:00,11:00:00,"VanderKraats, R.",
+"ECE472H1F","LEC 01","Tue",12:00:00,13:00:00,"VanderKraats, R.",
+
+"ECE472H1F","LEC 02","Mon",15:00:00,16:00:00,"VanderKraats, R.","EngEco"
+"ECE472H1F","LEC 02","Wed",15:00:00,16:00:00,"VanderKraats, R.",
+"ECE472H1F","LEC 02","Thu",15:00:00,16:00:00,"VanderKraats, R.",
+
+"ECE488H1F","LEC 01","Mon",18:00:00,19:00:00,"Paradi, Joseph","EntreEng"
+"ECE488H1F","LEC 01","Mon",19:00:00,20:00:00,"Paradi, Joseph",
+"ECE488H1F","LEC 01","Mon",20:00:00,21:00:00,"Paradi, Joseph",
+
+"ECE512H1F","LEC 01","Mon",13:00:00,14:00:00,"Johns, David","AnalogSP"
+"ECE512H1F","LEC 01","Wed",09:00:00,10:00:00,"Johns, David",
+"ECE512H1F","LEC 01","Thu",10:00:00,11:00:00,"Johns, David",
+
+"ECE524H1F","LEC 01","Mon",12:00:00,13:00:00,"Eleftheriades, G.","MicrowaveCircuits"
+"ECE524H1F","LEC 01","Tue",12:00:00,13:00:00,"Eleftheriades, G.",
+"ECE524H1F","LEC 01","Tue",00:00:00,00:00:00,"Eleftheriades, G.",
+
+"ECE527H1F","LEC 01","Mon",10:00:00,11:00:00,"Helmy, A.","PhotonicDevices"
+"ECE527H1F","LEC 01","Wed",11:00:00,12:00:00,"Helmy, A.",
+"ECE527H1F","LEC 01","Wed",00:00:00,00:00:00,"Helmy, A.",
+
+"ECE533H1F","LEC 01","Thu",12:00:00,13:00:00,"Trescases, Olivier","AdvancedPower"
+"ECE533H1F","LEC 01","Tue",15:00:00,16:00:00,"Trescases, Olivier",
+"ECE533H1F","LEC 01","Wed",18:00:00,19:00:00,"Trescases, Olivier",
+
+"ECE534H1F","LEC 01","Thu",13:00:00,14:00:00,"Ng, Wai","ICEng"
+"ECE534H1F","LEC 01","Mon",15:00:00,16:00:00,"Ng, Wai",
+"ECE534H1F","LEC 01","Mon",00:00:00,00:00:00,"Ng, Wai",
+
+"ECE535H1F","LEC 01","Mon",18:00:00,19:00:00,"Voinigescu, S.","AdElecDevices"
+"ECE535H1F","LEC 01","Mon",19:00:00,20:00:00,"Voinigescu, S.",
+"ECE535H1F","LEC 01","Mon",00:00:00,00:00:00,"Voinigescu, S.",
+
+"ECE557H1F","LEC 01","Tue",13:00:00,14:00:00,"Maggiore, M.","SystemsControl"
+"ECE557H1F","LEC 01","Thu",11:00:00,12:00:00,"Maggiore, M.",
+"ECE557H1F","LEC 01","Wed",17:00:00,18:00:00,"Maggiore, M.",
