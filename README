@@ -34,6 +34,12 @@
  *	...\course-planner\Data$ make
  *      ...\course-planner\Data$ ./parser < example.cvs   > output.txt
  *
+ * 
+ * Note: for the .cvs file, each LEC (lecture) should have three 1 hour
+ *       classes. In cases with less than 3 hours of lecture, still there
+ *       should be three different rows for that lecture, but with start
+ *       and end times equal to 00:00:00.
+ *
  * Copy the output.txt (which will be the input to planner) to the directory
  * of course-planner, then run the program on it as follows:
  * 
