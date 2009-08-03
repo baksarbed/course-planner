@@ -54,7 +54,7 @@ using namespace std;
  */
 
 enum weekdays { monday=1 , tuesday , wednesday, thursday, friday };
-enum time_spot { _9_10=1 , _10_11 , _11_12 , _12_1 , _1_2 , _2_3 , _3_4 , _4_5 , _5_6 };
+enum time_spot { _9_10=1 , _10_11 , _11_12 , _12_1 , _1_2 , _2_3 , _3_4 , _4_5 , _5_6,_0_0 };
 enum class_type { LEC=1, LAB , TUT };
 
 /**
@@ -94,6 +94,9 @@ struct course_time {
 				break; \
 			case _5_6: \
 				cout << "5:00 - 6:00" << endl; \
+				break; \
+			case _0_0: \
+				cout << "N/A" << endl;\
 				break; \
 			default: \
 				cout << "Error: Invalid Time" << endl; \

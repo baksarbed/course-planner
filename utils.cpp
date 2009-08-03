@@ -180,7 +180,8 @@ int	parse_course_files(char* filename)
 						else if( strcmp(time_temp,"_3_4") == 0 )course_time_temp[num_of_times].hour=_3_4;
 						else if( strcmp(time_temp,"_4_5") == 0 )course_time_temp[num_of_times].hour=_4_5;
 						else if( strcmp(time_temp,"_5_6") == 0 )course_time_temp[num_of_times].hour=_5_6;
-						else { cout << "Error: invalid time" << endl; num_of_times = 0; }
+						else if( strcmp(time_temp,"_0_0") == 0 )course_time_temp[num_of_times].hour=_0_0;
+						else { cout << "Error: invalid time: " << name_temp <<" " << id_temp << " "  << sec_temp << ":"<< time_temp << endl; num_of_times = 0; }
 
 						num_of_times++;
 					}// end of if

@@ -263,6 +263,7 @@ int has_conflic(course_base** keys,int num_of_courses)
 		course_time* temp=keys[i]->get_times();
 		for(int j=0;j<3;j++)
 		{
+		   if( temp[j].hour != _0_0 ){
 			if( week_calender[temp[j].hour-1][temp[j].day-1] == 0 )
 				week_calender[temp[j].hour-1][temp[j].day-1] = i+1; // mark using the index of the course in keys[]
 			else
@@ -279,6 +280,7 @@ int has_conflic(course_base** keys,int num_of_courses)
 				cout << 	"----------------------------------" << endl;
 				num_conflicts++;
 			}
+		   }
 		}
 	   }
 	   else // for TUT and Practical
