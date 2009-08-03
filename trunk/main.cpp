@@ -1,7 +1,29 @@
-
-
-
-//  if you want to take a course with a particular prof take the rest out the input file
+/**
+ * @file
+ * @author shervin.mehryar@gmail.com
+ * @version 1.0
+ *
+ * @section LICENSE
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License as
+ * published by the Free Software Foundation; either version 2 of
+ * the License, or (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Please be use
+ * caution when used and always DOUBLE CHECK RESULTS!!!!!
+ *
+ * @section DESCRIPTION
+ *
+ * Automated course planner that given all courses, automatically finds
+ * a non-conflicting match. It also alows for manual selection of
+ * courses by specifying particular sections, and reports any conflicts.
+ *
+ *
+ */
+// Note: if you want to take a course with a particular prof take the rest out the input file
 
 #include <iostream>
 using namespace std;
@@ -244,9 +266,15 @@ void auto_module()
 
 }
 
-int main()
+int main(int argc, char* args[])
 {
-	parse_course_files("fall2009.txt");
+	// read and parse input file
+	if( argc != 2 )
+	{
+		cout<< "Error: invalid inputs" << endl << "Usage: $ ./planner <input file>" << endl;
+		return -1;
+	}
+	parse_course_files(args[1]);
 	
 	while(true)
 	{
