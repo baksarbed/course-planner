@@ -1,0 +1,1 @@
+Many university students come to a point that need to select their courses. Most of the time, we spend hours looking at course schedules and at the end our timetable is full of conflicts. This C++ code, given all the courses and class hours, using a simple algorithm comes up with a non-conflicting match. The application could of course go beyond the use only by students.
